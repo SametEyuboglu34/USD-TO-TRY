@@ -1,0 +1,13 @@
+değişkenlere sabit değer verip api için siteden api key alarak oluşturdum 
+bu değişkenlere  fromCurrency  ve  toCurrency kullandım 
+fromCurrency elemanı döviz biriminin başlangıç para birimini belirtir 
+toCurrency ise döviz biriminin çevirileceği para birimini belirtir
+api ye   fetch ile veri isteği gönderimi yapıldı 
+
+fetch url ile web api sine istekte bulunur
+
+fetch çağrısı veya json döşüşümünde hata olursa bu  hataların,
+hata tipi ve mesajını konsolda detaylı olarak gösterilir
+
+
+
